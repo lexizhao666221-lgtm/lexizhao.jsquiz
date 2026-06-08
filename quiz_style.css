@@ -1,16 +1,12 @@
-
-
 @import url(https://fonts.googleapis.com/css?family=Matemasie);
 @import url(https://fonts.googleapis.com/css?family=Elms+Sans);
 @import url(https://fonts.googleapis.com/css?family=Average+Sans);
-
 
 body{
     margin:0;
     padding:0;
     overflow-x: hidden;
 }
-
 
 .navbar ul{
     list-style-type: none;
@@ -21,13 +17,11 @@ body{
     text-align: right;
 }
 
-
 .navbar{
     background-color: rgb(255, 227, 240);
     padding: 10px 20px;
     overflow: hidden;
 }
-
 
 .navbar img{
     display: inline-block;
@@ -36,7 +30,6 @@ body{
     margin-top: 5px;
 }
 
-
 .navbar ul{
     margin: 0;
     padding: 0;
@@ -44,11 +37,9 @@ body{
     float: right;
 }
 
-
 .navbar li{
     display: inline-block;
 }
-
 
 .navbar a{
     text-decoration: none;
@@ -61,12 +52,10 @@ body{
     vertical-align: middle;
 }
 
-
 .navbar a:hover{
     background-color: rgb(255, 199, 218);
     border-radius: 8px;
 }
-
 
 h1{
     font-family: 'Matemasie';
@@ -111,7 +100,6 @@ p{
     font-size: 18px;
 }
 
-
 .q{
     margin-left: 40px;
     line-height: -30px;
@@ -123,4 +111,22 @@ p{
     margin-left: 40px;
     display:flex;
     flex-direction: column;
+}
+
+#namee{
+    margin-left:40px;
+}
+
+#ohhhi{
+    font-family: 'Matemasie';
+    color:rgb(240, 151, 181);
+}
+
+#egname{
+    font-family: 'Matemasie';
+    color:rgb(80, 67, 56)
+}
+
+#finalbutton{
+    margin-left: 40px;
 }
